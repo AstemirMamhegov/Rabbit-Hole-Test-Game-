@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03f2b16260dda024cb4701d1e8614af2, type: 3}
+  m_Name: 6__Impossible DifficultMod 5
+  m_EditorClassIdentifier: 
+  nameDifficult: Impossible
+  description: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u0433\u043E\u0432\u043E\u0440\u0438\u0442
+    \u0437\u0430 \u0441\u0435\u0431\u044F. \u041D\u0435 \u043D\u0430\u0436\u0438\u043C\u0430\u0439\u0442\u0435
+    \u044D\u0442\u0443 \u043A\u043D\u043E\u043F\u043A\u0443."
+  icons: {fileID: 21300000, guid: a4e40418987e8be4c98d3aa3896e0edf, type: 3}
+  letter: 8
+  tryes: 0
+  scores: 7
